@@ -1,0 +1,6 @@
+cd mboxes
+rm -r */
+cd ..
+cd receipts
+rm -r */
+cd ..
